@@ -9,8 +9,8 @@ Magebay Multi Vendor: [See More Detail](https://www.magebay.com/magento-multi-ve
 - Admin can manage all Vendor Attributes
 - Admin can enable or disable attribute options
 - Admin can visible specific attribute on seller profile page
+- Admin can change any settings in backend
 - Seller/Vendor can set more their information
-- 
 
 ## Other Features:
 100% open source, not encrypted code. easy to customize.
