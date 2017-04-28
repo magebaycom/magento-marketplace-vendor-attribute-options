@@ -20,3 +20,5 @@ Support Multi Store, Multi Language
 User-Friendly interface
 
 Feel free to let us know if you have any feedback by submit issues.
+
+Related plugins: [Magento Marketplace RMA System Extension](https://github.com/magebaycom/magento-marketplace-rma-system)
